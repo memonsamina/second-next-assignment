@@ -1,0 +1,91 @@
+body {
+    background: black;
+
+}
+
+.peragraph {
+    color: #E6AF2E63;
+    font-family: 'Poppins';
+
+}
+
+.set {
+    margin-bottom: -210px;
+}
+
+.shAd {
+    margin-left: 210px;
+    margin-top: -270px;
+}
+
+.heading {
+    color: #FFFFFF;
+    font-family: 'Poppins';
+}
+
+.setting {
+    margin-left: -50px;
+}
+
+.span-title {
+    color: #BFC200;
+}
+
+.nav-link {
+    color: #FFFFFF;
+    font-family: 'Poppins';
+
+}
+
+.nav-link :hover {
+    color: none !important;
+}
+
+.price {
+    color: #FFFFFF;
+}
+
+.margin {
+    margin-top: -370px;
+}
+
+.marginn {
+    margin-top: -390px;
+    margin-left: 25px;
+}
+
+.shadow {
+    margin-top: -270px;
+}
+
+.color-carrd {
+    background-color: #2D2D2D82;
+    box-shadow: 28px 21px 59px 0px #0000001C;
+    width: 350px;
+
+}
+
+.button {
+    position: relative;
+    left: -5px;
+    display: flex;
+    width: 90px;
+    color: #c6bc02;
+    margin-top: 19px;
+    padding: 20px;
+    border: 2px solid #b7ab04;
+    box-shadow: 0 0 8px 0 rgba(10, 9, 9, 0.25);
+    background-color: black;
+}
+
+.button-text {
+    display: block;
+    height: 44px;
+    width: 93px;
+    border: 1px solid #c6bc02;
+    margin: -27px -27px -26px -30px;
+    padding: 15px;
+    padding-left: 18px;
+    font-size: 10px;
+
+}
